@@ -1,0 +1,7 @@
+C:\Users\Nurayim\Desktop\KBTU\Semester-2\PP2\LabWork2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Nurayim\Desktop\KBTU\Semester-2\PP2\LabWork2\Task2\bin\Debug\Task2.exe
+C:\Users\Nurayim\Desktop\KBTU\Semester-2\PP2\LabWork2\Task2\bin\Debug\Task2.pdb
+C:\Users\Nurayim\Desktop\KBTU\Semester-2\PP2\LabWork2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Nurayim\Desktop\KBTU\Semester-2\PP2\LabWork2\Task2\obj\Debug\Task2.exe
+C:\Users\Nurayim\Desktop\KBTU\Semester-2\PP2\LabWork2\Task2\obj\Debug\Task2.pdb
+C:\Users\Nurayim\Desktop\KBTU\Semester-2\PP2\LabWork2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
