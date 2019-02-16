@@ -11,7 +11,7 @@ namespace Task4
     {
         static void Main(string[] args)
         {
-            string s = "Hello Woeld";
+            string s = "Hello World";
             StreamWriter file = new StreamWriter(@"C:\Users\Nurayim\Desktop\qwerty\zxcvb\Test.txt"); // ссылка папки, где создаем новый файл 
             string path2 = @"C:\Users\Nurayim\Desktop\qwerty\output.txt"; // ссылка файла, куда переносим содержимое строки  
             file.Write(s); // функция, которая присваивает значение
