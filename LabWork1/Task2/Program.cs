@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    class List
+    class Student
     {
         public string name;
         public string id;
@@ -26,7 +26,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            List students = new List(Console.ReadLine(), Console.ReadLine(), Console.ReadLine()); // считываем имя, айди, год обучения
+            Student students = new Student(Console.ReadLine(), Console.ReadLine(), Console.ReadLine()); // считываем имя, айди, год обучения
             students.Show(); 
             Console.ReadKey();
         }
