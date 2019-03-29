@@ -11,7 +11,7 @@ namespace Task2
         public string name;
         public string id;
         public string year;
-        public List(string name, string id, string year)
+        public Student(string name, string id, string year)
         {
             this.name = name;
             this.id = id;
